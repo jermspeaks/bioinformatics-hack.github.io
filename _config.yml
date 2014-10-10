@@ -3,7 +3,7 @@ title: Bioinformatics Projects for Citizen Scientists
 email: jermspeaks@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Bioinformatics Citizen Scientist's Website allows a 
-  fellow citizen scientist to connect with projects.
+  fellow citizen scientist to connect with open projects.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://bioinformatics-hack.github.io" # the base hostname & protocol for your site
 twitter_username: jermspeaks
