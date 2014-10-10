@@ -1,14 +1,13 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Bioinformatics Projects for Citizen Scientists
+email: jermspeaks@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Bioinformatics Citizen Scientist's Website allows a 
+  fellow citizen scientist to connect with projects.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://bioinformatics-hack.github.io" # the base hostname & protocol for your site
+twitter_username: jermspeaks
+github_username:  jermspeaks
 
 # Build settings
 markdown: kramdown

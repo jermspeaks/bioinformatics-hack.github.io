@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<div class="form">
+
+  <header class="form-header">
+    <h1 class="form-title">{{ page.title }}</h1>
+  </header>
+
+  <article class="form-content">
+    {{ content }}
+  </article>
+
+  <form action="mailto:your@email.com" method="post">
+    <p>Your Name (required): </p><p><input type="text" name="name" /></p>
+    <p>Your Email (required): </p><p><input type="text" name="email" /></p>
+    <p>Project Name: </p><p><input type="text" name="projname" /></p>
+    <p>Project URL: </p><p><input type="text" name="projurl" /></p>
+    <p>Project Details: </p><p><textarea name="projdetails"></textarea></p>
+    <p><input type="checkbox" name="projcreator"> <span>I am the creator or coordinator of this project (optional)</span></p>
+    <p><input type='submit' value='Submit' /></p>
+  </form>
+
+</div>
